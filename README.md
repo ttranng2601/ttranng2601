@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Software Engineering Student | Builder of Things | Always be Learning.</h3>
 
-<p align="center"><img src="images/hello_there.gif"></p>
+<p align="center"><div class="tenor-gif-embed" data-postid="20380600" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/star-tamtl%C4%B1-discord-wallpaper-happy-gif-20380600">Star Tamtlı GIF</a>from <a href="https://tenor.com/search/star-gifs">Star GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script></p>
 
 <h3 align="left">Connect with me:</h3>
 
