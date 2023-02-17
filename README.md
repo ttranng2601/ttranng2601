@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="devicon" height="50" width="50" />
-		<img align="center" src="https://user-images.githubusercontent.com/98120384/219730184-0e0d9354-0055-4b9f-8773-a93cae9b413c.png](https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="devicon" height="50" width="50" />
+		<img align="center" src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50" width="50" />
 </p>
 <!--END_SECTION:waka-->
