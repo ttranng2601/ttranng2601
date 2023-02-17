@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Software Engineering Student | Builder of Things | Always be Learning.</h3>
 
-<p align="center"><img src="https://tenor.com/bxF5w.gif"></p>
+<p align="center"><img align="center" src="https://tenor.com/view/hello-grass-yan-jun-hi-gif-5636088"></p>
 
 <h3 align="left">Connect with me:</h3>
 
