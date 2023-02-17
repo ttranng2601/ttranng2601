@@ -34,7 +34,10 @@ Here are some ideas to get you started:
      </a>
      <a href="https://www.linkedin.com/in/ttranng/" target="_blank">
        <img align="center" src="https://user-images.githubusercontent.com/98120384/219729767-329cec5a-8ef5-4f60-a67a-4e427909740e.png" alt="linkedin" height="40" width="40" />
-	</a>
+     </a>
+     <a href="https://www.instagram.com/ttranng/" target="_blank">
+       <img align="center" src="images/Insta.png" alt="email" height="40" width="40" />
+     </a>
   </ul>
 
 <h3 align="left">Technologies I am familiar with:</h3>
