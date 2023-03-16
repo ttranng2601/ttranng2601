@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 	<p> 🌱 Located: Oklahoma City, OK <img align="center" src="images/OK.png" height="30" width="40"/></p>
 	<p> 🌱 Language: Vietnamese (native), English <img align="center" src="images/vn.png" height="35" width="35"/> <img align="center" src="images/US.png" height="35" width="35"/></p>
 	<p> 🌱 My resume: <a href="Resume0123.pdf" target="_blank" download> <img align="center" src="images/filedownload.png" height="35"/></p>   
-	<p> 🌱 My porfolio: <a href="https://ttranng2601.github.io/portfolio/" target="_blank" > <img align="center" src="images/web-browser.png" height="40"/></p>
+	<p> 🌱 My portfolio: <a href="https://ttranng2601.github.io/portfolio/" target="_blank" > <img align="center" src="images/web-browser.png" height="40"/></p>
    </div>
 </ul>
 <h3 align="left">Connect with me:</h3>
