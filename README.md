@@ -54,5 +54,11 @@ Here are some ideas to get you started:
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="devicon" height="50" width="50" />
 	<img align="center" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="devicon" height="60" width="60" />
 	<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="50" width="50" />
+	
 </ul>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryanmalani/ryanmalani/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryanmalani/ryanmalani/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ryanmalani/ryanmalani/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 <!--END_SECTION:waka-->
